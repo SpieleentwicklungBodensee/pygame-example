@@ -1,6 +1,8 @@
 # pygame-example
 kurzes Beispiel eines einfachen Labyrinth-Spiels in Python mit PyGame
 
+![pygame-example](.github/pygame-example.png "pygame-example screenshot")
+
 Hinweise
 ========
 Um dieses Projekt auszuführen wird Python und PyGame benötigt (www.python.org & www.pygame.org).
